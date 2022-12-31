@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Pants",
+    "category": "Kids",
+    "price": 479,
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "condition": 2,
+    "sellerName": "Blick, Mraz and Daniel"
+  },
+  {
+    "name": "Car",
+    "category": "Clothing",
+    "price": 949,
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "condition": 2,
+    "sellerName": "Legros and Sons"
+  },
+  {
+    "name": "Bacon",
+    "category": "Clothing",
+    "price": 220,
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "condition": 1,
+    "sellerName": "Purdy Inc"
+  },
+  {
+    "name": "Chicken",
+    "category": "Automotive",
+    "price": 97,
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "condition": 8,
+    "sellerName": "Johnston and Sons"
+  },
+  {
+    "name": "Salad",
+    "category": "Beauty",
+    "price": 21,
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "condition": 4,
+    "sellerName": "Cummings - Wintheiser"
+  },
+  {
+    "name": "Pants",
+    "category": "Beauty",
+    "price": 988,
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "condition": 7,
+    "sellerName": "Ebert, O'Hara and Rau"
+  },
+  {
+    "name": "Shirt",
+    "category": "Jewelery",
+    "price": 122,
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "condition": 4,
+    "sellerName": "Stark Group"
+  },
+  {
+    "name": "Car",
+    "category": "Garden",
+    "price": 779,
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "condition": 5,
+    "sellerName": "Gislason, Leuschke and Wolff"
+  },
+  {
+    "name": "Table",
+    "category": "Books",
+    "price": 929,
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "condition": 9,
+    "sellerName": "Jaskolski, Spinka and Steuber"
+  },
+  {
+    "name": "Soap",
+    "category": "Movies",
+    "price": 675,
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "condition": 5,
+    "sellerName": "Jakubowski, Hahn and Corkery"
+  }
+]
