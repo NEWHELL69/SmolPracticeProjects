@@ -3,7 +3,7 @@ import { faker } from '@faker-js/faker';
 
 const productData = []
 
-for(let i = 0; i < 10; i++){
+for(let i = 0; i < 1000; i++){
     const productDatum = {
         name: faker.commerce.product(),
         category: faker.commerce.department(),
