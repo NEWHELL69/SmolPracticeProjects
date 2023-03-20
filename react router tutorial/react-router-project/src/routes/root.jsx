@@ -13,6 +13,7 @@ import { useEffect } from "react";
 import { getContacts, createContact } from "../contacts";
 
 export async function loader({ request }) {
+  console.log(request.url)
   const url = new URL(request.url);
   const q = url.searchParams.get("q");
   const contacts = await getContacts(q); 
@@ -24,7 +25,7 @@ export async function action() {
   return redirect(`/contacts/${contact.id}/edit`);
 }
 
-export default function Root() {
+const Root = () => {
   const { contacts, q } = useLoaderData();
   const navigation = useNavigation();
   const submit = useSubmit();
@@ -121,3 +122,5 @@ export default function Root() {
     </>
   );
 }
+
+export default Root;
